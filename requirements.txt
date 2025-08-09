@@ -1,0 +1,11 @@
+"unstructured[all-docs]"
+langchain_community
+langchain-openai
+langchain-text-splitters 
+tiktoken
+streamlit 
+faiss-cpu 
+langchainhub
+
+
+
